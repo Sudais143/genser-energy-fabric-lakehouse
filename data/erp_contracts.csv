@@ -1,0 +1,7 @@
+contract_id,client_id,client_name,plant_id,contract_type,contracted_capacity_mw,tariff_usd_per_mwh,contract_start_date,contract_end_date,billing_cycle,currency
+CTR001,CLI001,Gold Fields Limited,PLT001,PPA,58.0,98.5,2023-01-01,2028-12-31,Monthly,USD
+CTR002,CLI001,Gold Fields Limited,PLT003,PPA,25.5,102.0,2023-01-01,2027-12-31,Monthly,USD
+CTR003,CLI002,Kinross Gold Corporation,PLT002,PPA,31.0,105.75,2023-06-01,2029-05-31,Monthly,USD
+CTR004,CLI003,Perseus Mining Limited,PLT004,PPA,33.0,99.0,2022-04-01,2027-03-31,Monthly,USD
+CTR005,CLI004,Golden Star Resources,PLT005,PPA,32.0,101.5,2023-01-01,2028-12-31,Monthly,USD
+CTR001,CLI001,Gold Fields Limited,PLT001,PPA,55.0,92.0,2020-01-01,2022-12-31,Monthly,USD
