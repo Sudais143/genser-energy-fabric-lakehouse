@@ -148,8 +148,6 @@ genser-energy-fabric-lakehouse/
 │   └── erp_fuel_deliveries.csv        # 900 gas delivery records
 ├── architecture/
 │   └── pipeline_architecture.svg     # Full pipeline diagram
-└── docs/
-    └── 09_interview_talking_points.md # Design decisions + senior-level Q&A
 ```
 
 ---
